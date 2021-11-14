@@ -1,0 +1,26 @@
+
+
+
+.line
+{
+    height: 5;
+        width: 2000;
+    background-color: aquamarine;
+    
+    
+}
+
+
+#apps
+{
+    background-color: #d8eded;
+    
+}
+#games
+{
+    background-color:#d7d7fa;
+}
+#bot
+{
+    background-color: #d7fae3;
+}
